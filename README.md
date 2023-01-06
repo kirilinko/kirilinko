@@ -26,7 +26,8 @@ Once again, welcome ✨!
   </div>
   <br>
     
-  
+[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franckivond)
+
 <!---
 <img src="https://activity-graph.herokuapp.com/graph?username=kirilinko&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
