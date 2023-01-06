@@ -1,14 +1,14 @@
 # 😄 Welcome !
 <img align="right" alt="GIF" src="https://github.com/kirilinko/kirilinko/blob/main/giphy-1.gif?raw=true" width="500" height="250" />Hi 👋 I'm Franck da COSTA !
-Analyst Programmer, I'm passionate about JavaScript web technologies, I also like embedded programming and the artificial intelligence sector.  You can contact me by 📫 mail for any collaboration or assistance regarding an error or misunderstanding on one of my creations. 
+Analyst Programmer, I'm passionate about JavaScript web technologies, I also like embedded programming and the artificial intelligence sector.  You can contact me by 📫 mail for any collaboration or assistance regarding an error or misunderstanding on one of my creations.  
  
-Once again, welcome ✨!
+Once again, welcome ✨!  
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
+[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franckivond)    [![HACKERRANK]( https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/d44f821fed3d) 
+<h2 align="center"> ⚡ Stats ⚡</h2>
 <br/> <br/>
       
-     
+    
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kirilinko&theme=react&border=61dafb&hide_border=true" alt="kirilinko" />
@@ -26,7 +26,7 @@ Once again, welcome ✨!
   </div>
   <br>
     
-[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franckivond)
+
 
 <!---
 <img src="https://activity-graph.herokuapp.com/graph?username=kirilinko&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
