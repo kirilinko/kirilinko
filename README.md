@@ -1,8 +1,4 @@
-[![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franckivond)    [![HACKERRANK]( https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/d44f821fed3d) 
-<h2 align="center"> ⚡ Stats ⚡</h2>
-<br/> <br/>
-      
-    
+ 
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kirilinko&theme=react&border=61dafb&hide_border=true" alt="kirilinko" />
