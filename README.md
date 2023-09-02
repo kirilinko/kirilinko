@@ -1,9 +1,3 @@
-# 😄 Welcome !
-<img align="right" alt="GIF" src="https://github.com/kirilinko/kirilinko/blob/main/giphy-1.gif?raw=true" width="500" height="250" />Hi 👋 I'm Franck da COSTA !
-Analyst Programmer, I'm passionate about JavaScript web technologies, I also like embedded programming and the artificial intelligence sector.  You can contact me by 📫 mail for any collaboration or assistance regarding an error or misunderstanding on one of my creations.  
- 
-Once again, welcome ✨!  
-
 [![MEDIUM](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@franckivond)    [![HACKERRANK]( https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/d44f821fed3d) 
 <h2 align="center"> ⚡ Stats ⚡</h2>
 <br/> <br/>
